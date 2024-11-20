@@ -2,8 +2,8 @@
 # 👋 Hi, I'm Sai Chaitanya Chambuli!  
 
 🎓 **Master's Graduate in Business Analytics** from the University of Galway, Ireland  
-💼 **Data Analyst** | **Web Scraping Expert** | **ETL Pipeline Developer**  
-🌍 Passionate about turning raw data into actionable insights and building scalable, efficient data solutions.
+💼 **Data Engineer | Data Analyst | Web Scraping Specialist**  
+🌍 Passionate about transforming data into actionable insights and building efficient, scalable data solutions.
 
 ---
 
@@ -26,16 +26,32 @@
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Data Engineering  
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)  
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)  
 ![AWS Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Amazon Athena](https://img.shields.io/badge/Amazon%20Athena-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Other Skills  
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+---
+
+## 🌱 **Currently Learning**
+- **PySpark** for scalable big data processing  
+- **Data Warehousing** principles and tools  
+- **Advanced Tableau Functions** for enhanced analytics and visualizations  
+
+---
+
+## 🔭 **Current Role**
+💼 I’m enrolled in the **Orcawise Innovation Program (OIP)** as a **Data Engineer**, where I work on data scraping and pipeline automation projects. Learn more about the program [here](https://www.orcawise.com/careers/data-engineer-web-scraping).
+
+---
+
+## 💬 **Ask Me About**
+- Building **ETL Pipelines** with AWS  
+- **Web Scraping** with Python tools like Selenium, Scrapy, and BeautifulSoup  
+- **Data Visualization** techniques using Tableau and Python  
+- Optimizing **Data Processing Workflows**  
+- Writing efficient **SQL Queries**  
 
 ---
 
@@ -82,4 +98,4 @@
 - 🌍 **Location**: Galway, Ireland  
 - 💻 **Portfolio**: [GitHub Profile](https://github.com/chaitusai14)
 
-Let's collaborate to create impactful data solutions and automate workflows! 🚀  
+Let’s collaborate on impactful data engineering and analytics projects! 🚀  
