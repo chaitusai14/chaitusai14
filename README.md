@@ -55,10 +55,6 @@
 - Automated extraction of audiobook data from Audible using Selenium.  
 - Processed and stored data in CSV format for further analysis.
 
-### [Interactive Sales and Customer Insights Dashboards](https://github.com/chaitusai14/Interactive-Dashboards)  
-- Designed Tableau dashboards to monitor KPIs such as sales growth, customer retention, and profitability.  
-- Enhanced decision-making for stakeholders by identifying key trends.
-
 ### [Web Scraping Movie Transcripts Using Scrapy](https://github.com/chaitusai14/Webscraping-Movie-Transcripts-Using-Scrapy)  
 - Automated transcript extraction for movies from Subslikescript.com.  
 - Implemented data storage in JSON for structured analysis.
